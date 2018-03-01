@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.vscode
+.vscode/*
+sftp-config.json
+*.log
+data
+data/*
